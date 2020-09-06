@@ -26,7 +26,7 @@ Connection On|Date of connection establishment
 
 ### Data Analysis - Insights Obtained
 * My first connection was **Soumik Mallik** and we got connected on **17th November, 2016**
-* Highest number of connection requests accepted on **11th August, 2018** - **444**
+* Highest number of connection made on **11th August, 2018** - **444** (Highest in a single day)
 * Organisations/Companies from where I have maximum connections (Top 5 and Highest to Lowest) - **Merkle Sokrati**, **Manipal University Jaipur**, **Amazon**, **Udaan.com** & **Simplilearn**
 
 ### Data Analysis - Visualizations
